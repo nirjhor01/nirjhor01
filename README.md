@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core, Angular**
 
-- 📝 I regularly write articles on [https://medium.com/@tanveerahmednirjhor](https://medium.com/@tanveerahmednirjhor)
+- 📝 I regularly write articles on [medium](https://medium.com/@tanveerahmednirjhor)
 
 - 💬 Ask me about **Competitive programming**
 
