@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **ASP.NET Core, Angular**
 
-- 📝 I regularly write articles on [medium](https://medium.com/@tanveerahmednirjhor)
+- 📝 I regularly write articles on [Medium](https://medium.com/@tanveerahmednirjhor)
+- 📝 I regularly write articles on [Blogger](https://l.facebook.com/l.php?u=https%3A%2F%2Ftanveerahmednirjhor.blogspot.com%2F%3Fm%3D1%26fbclid%3DIwAR1sufNet5wT1vOAvQjBcRS9XHGpMgOjBDXqsuV0NlA_OSd2BJKGmvTKKLY_aem_AfdH_r39ZRzipuvFk2MgIQVNOGb0FsdCxRgLiw8_xP8gaxiMFB6p4y2k16Qa-L_8QFreR9gxtf0xB3tzsWC8Oi3v&h=AT3V2L2CmNpkpeLctmf3h9K4fULqI_8Pa5XmvhE8uWXmDf65y1mo_ShFdlgnzwHiSJ2XB2bEMfJWg2_4V53izNtO4rkDqHESvuH3J1b6HIXesuphh_mGIVV4gJvPS7KoxBmogA)
 
 - 💬 Ask me about **Competitive programming**
 
