@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://drive.google.com/file/d/10Sbin8py4n0TQ0UsUQ1dCHmr-8e7MSbB/view?usp=sharing)]-->
 <h1 align="center">Hi 👋, I'm Tanveer Ahmed Nirjhor</h1>
-<h3 align="center">Embracing Complexity, Simplifying Solutions</h3>
+<h3 align="center">Jr. Software Engineer at TechnoNext</h3>
 
 
  <img width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> 
